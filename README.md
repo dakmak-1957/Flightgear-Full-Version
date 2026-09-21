@@ -259,4 +259,4 @@ This repository serves as the official landing page for FlightGear. The software
 **Get the most recent version of FlightGear today!**
 
 ---
-**Last updated:** 2026-09-21 16:50:05 UTC
+**Last updated:** 2026-09-21 20:50:59 UTC
